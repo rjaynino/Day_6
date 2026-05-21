@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "C:\\Users\\Data\\Day04_practice.db",
+            "name": "Day_5"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Urban_Brew",
+            "database": "./urban_brew.db"
+        }
+    ]
+}
