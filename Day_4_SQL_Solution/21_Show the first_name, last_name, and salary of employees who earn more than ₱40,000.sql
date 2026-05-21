@@ -1,0 +1,3 @@
+-- Question 21: Show the first_name, last_name, and salary of employees who earn more than £40,000  
+SELECT first_name,last_name,salary FROM employees WHERE salary > 40000
+-- results: 9 rows returned
